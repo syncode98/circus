@@ -34,6 +34,7 @@ public class Trainer {
         } else if (bird instanceof Parrot) {
             Parrot p=(Parrot) bird;
             p.fly();
+            //try again
 
         }
     }
